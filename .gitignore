@@ -1,0 +1,6 @@
+﻿output.pcap
+*.pcap
+build/
+*.obj
+*.exe
+.vs/
